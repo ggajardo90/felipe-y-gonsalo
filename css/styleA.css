@@ -1,0 +1,23 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
+body{
+
+    font-family: 'Goldman', cursive;
+    background-image: url(../img/link-hoang-UoqAR2pOxMo-unsplash.jpg);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-origin: padding-box;
+ 
+
+}
+
+button {
+    width:200px;
+    height: 50px;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 12px hsl(240, 2%, 10%);
+    font-family: 'Goldman', cursive;
+}
